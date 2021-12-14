@@ -3,6 +3,7 @@
 - [ ] Migrate the svelte components I've already created into this project
 - [ ] Install [TailwindCSS 3.0](https://tailwindcss.com/)
 - [ ] Install [Svelte Material UI](https://sveltematerialui.com/)
+- [ ] Setup [https://intl-phone-input.manuel.dev](https://intl-phone-input.manuel.dev) to host the documentation and route to the CDN
 - [ ] Color Customization
 - [ ] Use levenshtein distance for the country fuzzy search
 - [ ] Masking input using proper region specific formatting
