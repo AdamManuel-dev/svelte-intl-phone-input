@@ -1,4 +1,4 @@
-<svelte:options tag="svelte-custom-element" />
+<svelte:options tag="intl-phone-input" />
 
 <script>
   import { createEventDispatcher, onDestroy, onMount } from 'svelte'
@@ -50,7 +50,7 @@
   <div class="component-styles-wrapper">
     <h1>{title}</h1>
 
-    <p>{$t('text:example-paragraph')}</p>
+    <p>{$t('text:input-placeholder')}</p>
 
     <button on:click={changeLang('en')}>EN</button>
     <button on:click={changeLang('es')}>ES</button>

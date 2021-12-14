@@ -108,8 +108,8 @@ dist/static
 # macOS custom attributes
 .DS_Store
 
-# static folder to host when spinning up Storybook
-/.storybook/static/*
+# static folder to host Storybook
+/storybook
 
 # basic log files
 access.log
