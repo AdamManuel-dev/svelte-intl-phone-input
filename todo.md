@@ -19,6 +19,12 @@
 - [ ] Automatically set the input placeholder to an example number for the selected country
 - [ ] Proper automated tests with test coverage reports displayed in README.md
   - https://timdeschryver.dev/blog/how-to-test-svelte-components
+- [ ] Added these add-ons to storybook
+  - [ ] [jest](https://storybook.js.org/addons/@storybook/addon-jest/)
+  - [ ] [outline](https://storybook.js.org/addons/storybook-addon-outline)
+  - [ ] [a11y](https://storybook.js.org/addons/@storybook/addon-a11y)
+  - [ ] [actions](https://storybook.js.org/addons/@storybook/addon-actions)
+  - [ ] [controls](https://storybook.js.org/addons/@storybook/addon-controls)
 - [ ] Deploy compiled <src> and assets to CDN
   - [ ] Automate deployment to CDN based on the coverage report
 - [ ] Package component and deploy to NPM
